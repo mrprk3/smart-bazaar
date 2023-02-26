@@ -1,0 +1,12 @@
+com\bigbazar\entity\User.class
+com\bigbazar\servlet\LoginServlet.class
+com\bigbazar\servlet\LogoutServlet.class
+com\bigbazar\entity\Product.class
+com\bigbazar\servlet\ProductOperationServlet.class
+com\bigbazar\helper\FactoryProvider.class
+com\bigbazar\helper\Helper.class
+com\bigbazar\dao\CategoryDao.class
+com\bigbazar\servlet\RegisterServlet.class
+com\bigbazar\dao\ProductDao.class
+com\bigbazar\dao\UserDao.class
+com\bigbazar\entity\Category.class
